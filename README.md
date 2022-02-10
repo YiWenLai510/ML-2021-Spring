@@ -1,1 +1,19 @@
 # ML-2021-Spring
+- website (access with vpn)
+  - https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.php
+- HWs abstract
+  - 1 Regression (done)
+  - 2 Classification (done)
+  - 3 CNN (done) 
+  - 4 Self-Attention (done)
+  - 5 Transformer (done)
+  - 6 GAN (done)
+  - 7 BERT (done)
+  - 8 Anomaly Detection (done)
+  - 9 Explainable AI (done)
+  - 10 Attack (done)
+  - 11 Adaption
+  - 12 RL
+  - 13 Compression
+  - 14 Life-Long learning
+  - 15 Meta Learning
